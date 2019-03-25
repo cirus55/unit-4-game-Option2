@@ -1,0 +1,28 @@
+body {
+    background-image: url("jurassic-park-entrance.jpg");
+    /* background-image: none ; */
+    background-size: cover;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.optionsCharacter{
+    overflow: auto;
+}
+
+.yourCharacter{
+    overflow: auto;
+}
+
+.enemiesAvailableToAttack{
+    overflow: auto;
+}
+
+.dino {
+    width: 300px;
+    float: left;
+    text-align: center;
+}
